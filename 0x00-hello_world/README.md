@@ -5,3 +5,4 @@
 4-putsc
 5-printf
 6-size.c
+7.100-intel
